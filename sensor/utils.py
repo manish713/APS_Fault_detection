@@ -8,7 +8,6 @@ def get_collection_as_dataframe(database_name:str, collection_name:str)->pd.Data
     """
     Description: This function returns colleciton as dataframe
     Params: 
-
     data_name: database name
     collection_name: collection name
     ========================================
